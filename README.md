@@ -5,7 +5,7 @@ _Um cofrinho, onde é possível guardar moedas de Dolar, Euro e Real._
 ### Funcões: <h3>
   
  * Adicionar moeda
- * Lista moedas
+ * Listar moedas
  * Remover moedas
  * converter valor total para o Real
   
